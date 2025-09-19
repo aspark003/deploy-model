@@ -1,1 +1,1 @@
-web: gunicorn deploy_model:app
+web: python deploy_model.py

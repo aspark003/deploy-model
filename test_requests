@@ -1,0 +1,8 @@
+import requests
+
+url = "https://deploy-model-1-jsdk.onrender.com/model_prediction"
+payload = {"features": [1.293665, 17.877919]}
+
+response = requests.post(url, json=payload)
+print(response.json())
+

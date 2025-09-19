@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from joblib import dump, load
 from flask import Flask, request, jsonify
-import gunicorn
+
 
 # Load data from CSV if database is unavailable
 try:

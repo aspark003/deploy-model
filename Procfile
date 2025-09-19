@@ -1,1 +1,1 @@
-web: python "mySQL connect deploy model.py"
+web: gunicorn mySQL_connect_deploy_model:app

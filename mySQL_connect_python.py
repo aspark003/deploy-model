@@ -17,7 +17,8 @@ except Exception as e:
     print(f"Database error: {e}. Loading from CSV instead.")
     df = pd.read_csv("wk2_movies.csv")
 finally:
-    engine.dispose()
+    if 'engine' in locals():
+        engine.dispose()
 
 # Data preprocessing
 df = df.drop(columns=['id', 'movie_title', 'genre', 'mpaa_rating', 'runtime_minutes', 'critic_score', 'audience_score', 'release_year'])

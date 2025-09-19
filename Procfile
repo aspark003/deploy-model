@@ -1,1 +1,1 @@
-web: python deploy_model.py
+web: python mySQL_connect_python.py

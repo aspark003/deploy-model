@@ -1,0 +1,1 @@
+web: python "mySQL connect deploy model.py"

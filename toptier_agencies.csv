@@ -1,0 +1,111 @@
+agency_id,toptier_code,abbreviation,agency_name,congressional_justification_url,active_fy,active_fq,outlay_amount,obligated_amount,budget_authority_amount,current_total_budget_authority_amount,percentage_of_total_budget_authority,agency_slug
+1525,247,AAHC,400 Years of African-American History Commission,,2025,3,0.0,0.0,0.0,15330351529402.55,0.0,400-years-of-african-american-history-commission
+1146,310,USAB,Access Board,https://www.access-board.gov/cj,2025,3,6515147.98,6531008.47,13648582.41,15330351529402.55,8.902980720189596e-07,access-board
+1136,302,ACUS,Administrative Conference of the U.S.,https://www.acus.gov/cj,2025,3,2737273.63,2655133.47,3606982.05,15330351529402.55,2.35283714341583e-07,administrative-conference-of-the-us
+1144,306,ACHP,Advisory Council on Historic Preservation,https://www.achp.gov/sites/default/files/2021-06/ACHP%202022%20Budget%20Justification-final-5-10-21.pdf,2025,3,8899581.83,8511187.5,18839448.23,15330351529402.55,1.228898645531203e-06,advisory-council-on-historic-preservation
+1527,166,USADF,African Development Foundation,https://www.usadf.gov/cj,2025,3,0.0,0.0,0.0,15330351529402.55,0.0,african-development-foundation
+801,072,USAID,Agency for International Development,https://www.usaid.gov/cj,2025,3,17947704776.42,10843342801.44,35488362336.86,15330351529402.55,0.0023149085830677647,agency-for-international-development
+805,074,ABMC,American Battle Monuments Commission,https://www.abmc.gov/cj,2025,3,71630518.87,76243415.11,270688130.72,15330351529402.55,1.7657007420921757e-05,american-battle-monuments-commission
+1416,309,ARC,Appalachian Regional Commission,https://www.arc.gov/cj,2025,3,14525088.63,8241859.0,48542910.32,15330351529402.55,3.166457744096609e-06,appalachian-regional-commission
+879,084,AFRH,Armed Forces Retirement Home,,2025,3,113071028.7,117380443.74,285277200.34,15330351529402.55,1.8608653545410103e-05,armed-forces-retirement-home
+1159,313,GOLDWATER,Barry Goldwater Scholarship and Excellence In Education Foundation,http://goldwaterscholarship.gov/,2025,3,1002720.15,661145.67,42355649.26,15330351529402.55,2.7628622330521776e-06,barry-goldwater-scholarship-and-excellence-in-education-foundation
+1426,321,HERITAGEABROAD,Commission for the Preservation of America's Heritage Abroad,https://www.heritageabroad.gov/cj,2025,3,0.0,0.0,0.0,15330351529402.55,0.0,commission-for-the-preservation-of-americas-heritage-abroad
+1149,323,CFA,Commission of Fine Arts,https://www.cfa.gov/cj,2025,3,2654784.95,2640814.53,9690205.29,15330351529402.55,6.320928304491164e-07,commission-of-fine-arts
+1138,326,USCCR,Commission on Civil Rights,https://www.usccr.gov/cj/,2025,3,11238905.01,11207066.29,16922153.93,15330351529402.55,1.1038333920487395e-06,commission-on-civil-rights
+1139,338,ABILITYONE,Committee for Purchase from People Who Are Blind or Severely Disabled,https://www.abilityone.gov/cj,2025,3,8531869.24,10300630.09,17054457.67,15330351529402.55,1.1124635751039848e-06,committee-for-purchase-from-people-who-are-blind-or-severely-disabled
+1129,339,CFTC,Commodity Futures Trading Commission,https://www.cftc.gov/cj,2025,3,279957002.53,258785753.06,991054253.42,15330351529402.55,6.464654457004633e-05,commodity-futures-trading-commission
+1158,581,CFPB,Consumer Financial Protection Bureau,https://www.consumerfinance.gov/cj,2025,3,2604726316.21,2452281555.67,3092211392.09,15330351529402.55,0.00020170518504806318,consumer-financial-protection-bureau
+694,061,CPSC,Consumer Product Safety Commission,https://www.cpsc.gov/cj,2025,3,118640722.48,109898362.03,165164328.49,15330351529402.55,1.0773681749777642e-05,consumer-product-safety-commission
+1166,485,CNCS,Corporation for National and Community Service,https://www.nationalservice.gov/cj,2025,3,1253278775.56,689809590.98,2484052947.74,15330351529402.55,0.00016203496331938368,corporation-for-national-and-community-service
+1205,096,USACE,Corps of Engineers - Civil Works,https://www.usace.army.mil/Missions/Civil-Works/cj,2025,3,23289343584.99,26058160274.14,84041844520.21,15330351529402.55,0.005482055930617349,corps-of-engineers-civil-works
+1132,542,CIGIE,Council of the Inspectors General on Integrity and Efficiency,https://www.ignet.gov/cj,2025,3,22932637.18,23838743.1,71680138.29,15330351529402.55,4.675700889997367e-06,council-of-the-inspectors-general-on-integrity-and-efficiency
+1528,9553,CSOSA,Court Services and Offender Supervision Agency,https://www.csosa.gov/cj,2025,3,202600976.49,187400128.7,372369614.14,15330351529402.55,2.4289698342912808e-05,court-services-and-offender-supervision-agency
+1137,347,DNFSB,Defense Nuclear Facilities Safety Board,https://www.dnfsb.gov/cj,2025,3,32246993.39,29924707.3,51587479.59,15330351529402.55,3.365055229885551e-06,defense-nuclear-facilities-safety-board
+1156,517,DRA,Delta Regional Authority,https://dra.gov/cj,2025,3,43923655.28,89972017.51,168030164.27,15330351529402.55,1.0960620436376153e-05,delta-regional-authority
+1165,513,DENALI,Denali Commission,https://www.denali.gov/cj,2025,3,30298846.31,48934624.85,231854039.16,15330351529402.55,1.5123856665342607e-05,denali-commission
+95,012,USDA,Department of Agriculture,https://www.usda.gov/cj,2025,3,187288182529.67,192711272777.51,494879246395.91,15330351529402.55,0.032281011002700484,department-of-agriculture
+183,013,DOC,Department of Commerce,https://www.commerce.gov/cj,2025,3,24515762161.27,63151163375.89,94001822390.46,15330351529402.55,0.006131746047060371,department-of-commerce
+1173,097,DOD,Department of Defense,https://www.defense.gov/cj,2025,3,1048740991269.89,1087315556692.46,1916209607126.89,15330351529402.55,0.12499449888358612,department-of-defense
+1068,091,ED,Department of Education,https://www.ed.gov/cj,2025,3,103476403208.26,59695804675.1,194717116659.11,15330351529402.55,0.012701412376986663,department-of-education
+930,089,DOE,Department of Energy,https://energy.gov/cj,2025,3,51119409778.63,81554542007.44,161236458964.66,15330351529402.55,0.010517466520935262,department-of-energy
+806,075,HHS,Department of Health and Human Services,https://www.hhs.gov/cj,2025,3,2000181283326.55,2048074208591.49,3241511565575.02,15330351529402.55,0.2114440467563986,department-of-health-and-human-services
+766,070,DHS,Department of Homeland Security,https://www.dhs.gov/cj,2025,3,117285310200.78,122540649051.49,215010634473.75,15330351529402.55,0.014025160092472408,department-of-homeland-security
+882,086,HUD,Department of Housing and Urban Development,https://www.hud.gov/cj,2025,3,65746129435.66,65390961237.67,297066697932.33,15330351529402.55,0.01937768337292049,department-of-housing-and-urban-development
+252,015,DOJ,Department of Justice,https://www.justice.gov/cj,2025,3,39410412468.71,36174844232.6,68268877736.31,15330351529402.55,0.004453184103794034,department-of-justice
+267,1601,DOL,Department of Labor,https://www.dol.gov/cj,2025,3,53928832193.34,52338059908.32,84131770442.22,15330351529402.55,0.005487921805371592,department-of-labor
+315,019,DOS,Department of State,https://www.state.gov/cj,2025,3,34271650059.34,27100263689.07,82608970993.61,15330351529402.55,0.0053885894811460605,department-of-state
+731,069,DOT,Department of Transportation,https://www.transportation.gov/cj,2025,3,99503998797.01,100848586146.34,295197325724.06,15330351529402.55,0.019255744081138126,department-of-transportation
+561,036,VA,Department of Veterans Affairs,https://www.va.gov/cj,2025,3,298394013654.35,302583905137.54,464433989431.18,15330351529402.55,0.030295064567855984,department-of-veterans-affairs
+209,014,DOI,Department of the Interior,https://www.doi.gov/cj,2025,3,29229217590.92,27491689149.44,91140233204.83,15330351529402.55,0.005945084366136638,department-of-the-interior
+456,020,TREAS,Department of the Treasury,https://www.treasury.gov/cj,2025,3,1529882579538.71,1539425458357.09,4856375912389.31,15330351529402.55,0.3167817713165362,department-of-the-treasury
+1523,349,DC COURTS,District of Columbia Courts,https://www.dccourts.gov/cj,2025,3,245779750.02,256939049.27,430859454.07,15330351529402.55,2.8104995064440724e-05,district-of-columbia-courts
+1141,525,EAC,Election Assistance Commission,https://www.eac.gov/cj,2025,3,32938185.42,31212534.98,107952500.04,15330351529402.55,7.041749814605007e-06,election-assistance-commission
+700,068,EPA,Environmental Protection Agency,https://www.epa.gov/cj,2025,3,33281796869.05,19668662482.59,58377467271.17,15330351529402.55,0.0038079666444181706,environmental-protection-agency
+611,045,EEOC,Equal Employment Opportunity Commission,https://www.eeoc.gov/cj,2025,3,336596504.22,334466082.09,493121736.75,15330351529402.55,3.216636851439621e-05,equal-employment-opportunity-commission
+48,1100,EOP,Executive Office of the President,https://www.whitehouse.gov/wp-content/uploads/2021/06/EOP-FY2022-Congressional-Budget-Submission.pdf,2025,3,761054320.31,805584917.61,1387558584.05,15330351529402.55,9.051055231112991e-05,executive-office-of-the-president
+878,083,EXIM,Export-Import Bank of the United States,https://www.exim.gov/cj,2025,3,195442880.91,218084885.76,422485731.69,15330351529402.55,2.7558776514661236e-05,export-import-bank-of-the-united-states
+860,7802,FCSIC,Farm Credit System Insurance Corporation,https://www.fcsic.gov/cj,2025,3,80146565.89,80915413.23,8387814512.35,15330351529402.55,0.0005471377806479358,farm-credit-system-insurance-corporation
+538,027,FCC,Federal Communications Commission,https://www.fcc.gov/cj,2025,3,8504951322.9,9041208836.3,-9180496522.16,15330351529402.55,-0.0005988444886310953,federal-communications-commission
+682,051,FDIC,Federal Deposit Insurance Corporation,https://www.fdic.gov/cj,2025,3,4227668827.2,4464393851.7,126242748702.72,15330351529402.55,0.008234824130457489,federal-deposit-insurance-corporation
+1128,360,FEC,Federal Election Commission,https://www.fec.gov/cj,2025,3,59246972.1,58141359.81,90101550.56,15330351529402.55,5.877331017960774e-06,federal-election-commission
+1161,362,FFIEC,Federal Financial Institutions Examination Council,,2025,3,4374984.2,5851401.99,32161571.59,15330351529402.55,2.0979017688091718e-06,federal-financial-institutions-examination-council
+685,054,FLRA,Federal Labor Relations Authority,https://www.flra.gov/cj,2025,3,23146811.85,21278523.68,30565698.84,15330351529402.55,1.9938028675583275e-06,federal-labor-relations-authority
+699,065,FMC,Federal Maritime Commission,https://www.fmc.gov/cj,2025,3,30363846.69,26144092.87,44883868.41,15330351529402.55,2.927778161114952e-06,federal-maritime-commission
+1125,093,FMCS,Federal Mediation and Conciliation Service,https://www.fmcs.gov/cj,2025,3,39700838.93,35564534.91,76226215.23,15330351529402.55,4.9722418356685045e-06,federal-mediation-and-conciliation-service
+1127,368,FMSHRC,Federal Mine Safety and Health Review Commission,https://www.fmshrc.gov/cj,2025,3,12075901.47,13382304.9,25871996.61,15330351529402.55,1.6876323129563797e-06,federal-mine-safety-and-health-review-commission
+1524,473,FPISC,Federal Permitting Improvement Steering Council,https://www.permits.performance.gov/documentation/fpisc-fy-2022-budget-request,2025,3,24644715.92,73293423.04,228449513.76,15330351529402.55,1.4901779213728379e-05,federal-permitting-improvement-steering-council
+552,029,FTC,Federal Trade Commission,https://www.ftc.gov/cj,2025,3,319972654.34,298370878.61,486174095.09,15330351529402.55,3.171317331879519e-05,federal-trade-commission
+614,047,GSA,General Services Administration,https://www.gsa.gov/cj,2025,3,30109832048.17,27781749911.72,60875929870.72,15330351529402.55,0.0039709415504246065,general-services-administration
+11,005,GAO,Government Accountability Office,https://www.gao.gov/products/gao-21-510t,2025,3,672768480.31,690707393.09,1062231110.91,15330351529402.55,6.928941641505835e-05,government-accountability-office
+1147,471,GCERC,Gulf Coast Ecosystem Restoration Council,https://www.restorethegulf.gov/cj,2025,3,129186593.22,172733108.71,393023921.57,15330351529402.55,2.5636980392537467e-05,gulf-coast-ecosystem-restoration-council
+1131,372,TRUMAN,Harry S Truman Scholarship Foundation,,2025,3,4917126.26,4918502.43,30662186.31,15330351529402.55,2.0000967525886182e-06,harry-s-truman-scholarship-foundation
+1423,474,IMLS,Institute of Museum and Library Services,https://www.imls.gov/cj,2025,3,251424206.89,198121140.26,325620515.28,15330351529402.55,2.124025105722347e-05,institute-of-museum-and-library-services
+1526,164,IAF,Inter-American Foundation,,2025,3,27290137.91,15668401.26,66985698.24,15330351529402.55,4.369482207340521e-06,inter-american-foundation
+560,034,USITC,International Trade Commission,https://www.usitc.gov/cj,2025,3,95054062.32,90931365.2,132326446.52,15330351529402.55,8.631664203277208e-06,international-trade-commission
+1152,381,MADISON,James Madison Memorial Fellowship Foundation,,2025,3,1497685.14,2134979.7,36941106.35,15330351529402.55,2.4096711858922166e-06,james-madison-memorial-fellowship-foundation
+1133,382,JUSFC,Japan-United States Friendship Commission,,2025,3,2195621.32,2305045.82,2550381.77,15330351529402.55,1.6636159745642784e-07,japan-united-states-friendship-commission
+558,3301,KENNEDY CENTER,John F. Kennedy Center for the Performing Arts,https://www.kennedy-center.org/cj,2025,3,0.0,0.0,0.0,15330351529402.55,0.0,john-f-kennedy-center-for-the-performing-arts
+1134,387,MMC,Marine Mammal Commission,https://www.mmc.gov/cj,2025,3,3126239.53,2918232.51,5551669.65,15330351529402.55,3.6213583487321104e-07,marine-mammal-commission
+610,389,MSPB,Merit Systems Protection Board,https://www.mspb.gov/cj,2025,3,39088216.77,36892374.19,58069120.66,15330351529402.55,3.7878531714440763e-06,merit-systems-protection-board
+1154,524,MCC,Millennium Challenge Corporation,https://www.mcc.gov/cj,2025,3,534796014.1,211734576.39,3222400709.41,15330351529402.55,0.00021019744415055707,millennium-challenge-corporation
+1155,487,UDALL,Morris K. Udall and Stewart L. Udall Foundation,https://udall.gov/cj,2025,3,8777904.19,9391398.3,30506372.7,15330351529402.55,1.9899330189194224e-06,morris-k-udall-and-stewart-l-udall-foundation
+862,080,NASA,National Aeronautics and Space Administration,https://www.nasa.gov/cj,2025,3,19719111265.65,17474261438.38,35081689839.67,15330351529402.55,0.0022883813050461207,national-aeronautics-and-space-administration
+925,088,NARA,National Archives and Records Administration,https://www.archives.gov/cj,2025,3,564017791.58,511275418.23,901514143.96,15330351529402.55,5.8805836397877664e-05,national-archives-and-records-administration
+1126,394,NCPC,National Capital Planning Commission,https://www.ncpc.gov/docs/NCPC_Justification_for_Appropriation_FY_2022.pdf,2025,3,8249306.64,10009517.28,17201964.01,15330351529402.55,1.1220854249172192e-06,national-capital-planning-commission
+1417,413,NCD,National Council on Disability,https://www.ncd.gov/cj,2025,3,0.0,0.0,0.0,15330351529402.55,0.0,national-council-on-disability
+535,025,NCUA,National Credit Union Administration,https://www.ncua.gov/cj,2025,3,3296308.94,1506300.0,18216700.19,15330351529402.55,1.1882767433650582e-06,national-credit-union-administration
+687,417,NEA,National Endowment for the Arts,https://www.arts.gov/cj,2025,3,199073807.2,39437292.24,241115848.13,15330351529402.55,1.572800517115061e-05,national-endowment-for-the-arts
+692,418,NEH,National Endowment for the Humanities,https://www.neh.gov/cj,2025,3,161698543.12,90814021.79,260134493.11,15330351529402.55,1.696859283435739e-05,national-endowment-for-the-humanities
+697,420,NLRB,National Labor Relations Board,https://www.nlrb.gov/cj,2025,3,226948246.76,218538658.46,315595285.28,15330351529402.55,2.0586304539377984e-05,national-labor-relations-board
+1142,421,NMB,National Mediation Board,https://nmb.gov/cj,2025,3,11042607.06,11356048.08,18675442.74,15330351529402.55,1.2182005549045496e-06,national-mediation-board
+655,049,NSF,National Science Foundation,https://www.nsf.gov/cj,2025,3,7101735774.96,3473544082.02,10859205757.23,15330351529402.55,0.0007083468201236479,national-science-foundation
+1130,424,NTSB,National Transportation Safety Board,https://www.ntsb.gov/cj,2025,3,105363900.73,106665716.98,176868712.62,15330351529402.55,1.1537159619645909e-05,national-transportation-safety-board
+1431,573,NBRC,Northern Border Regional Commission,https://www.nbrc.gov/content/CJ,2025,3,22474183.73,50832020.15,273675714.11,15330351529402.55,1.7851887713410158e-05,northern-border-regional-commission
+554,031,NRC,Nuclear Regulatory Commission,https://www.nrc.gov/cj,2025,3,735187695.38,662314993.88,1068482258.79,15330351529402.55,6.969717926824607e-05,nuclear-regulatory-commission
+654,431,NWTRB,Nuclear Waste Technical Review Board,https://www.nwtrb.gov/cj,2025,3,2846598.23,3072392.13,5299141.35,15330351529402.55,3.4566339459578695e-07,nuclear-waste-technical-review-board
+1135,432,OSHRC,Occupational Safety and Health Review Commission,https://www.oshrc.gov/cj,2025,3,10507482.66,9273385.42,18982637.83,15330351529402.55,1.238238914064861e-06,occupational-safety-and-health-review-commission
+1157,434,OGE,Office of Government Ethics,https://www.oge.gov/cj,2025,3,15099632.91,17448656.26,29324689.9,15330351529402.55,1.9128517597106157e-06,office-of-government-ethics
+650,435,ONHIR,Office of Navajo and Hopi Indian Relocation,,2025,3,3863079.71,4804995.92,6521811.66,15330351529402.55,4.2541827220932396e-07,office-of-navajo-and-hopi-indian-relocation
+503,024,OPM,Office of Personnel Management,https://www.opm.gov/cj,2025,3,157305188578.98,157258253269.51,380739125464.19,15330351529402.55,0.024835642205200497,office-of-personnel-management
+695,062,OSC,Office of Special Counsel,https://osc.gov/cj,2025,3,22406437.13,23846254.59,32449071.32,15330351529402.55,2.116655398133887e-06,office-of-special-counsel
+800,071,OPIC,Overseas Private Investment Corporation,https://www.opic.gov/cj,2025,3,367459.29,0.0,20381374.42,15330351529402.55,1.3294786085570144e-06,overseas-private-investment-corporation
+1516,579,PCORTF,Patient-Centered Outcomes Research Trust Fund,,2025,3,644592739.62,721564348.39,1160656131.72,15330351529402.55,7.570968803252438e-05,patient-centered-outcomes-research-trust-fund
+89,1125,PC,Peace Corps,https://www.peacecorps.gov/cj,2025,3,335834577.98,342673741.04,521737608.39,15330351529402.55,3.4032984004922746e-05,peace-corps
+308,1602,PBGC,Pension Benefit Guaranty Corporation,https://www.pbgc.gov/cj,2025,3,10548081119.11,10445766588.87,90436366593.17,15330351529402.55,0.005899171093351599,pension-benefit-guaranty-corporation
+1164,512,PRESIDIO,Presidio Trust,https://www.presidio.gov/presidio-trust/planning-internal/Shared%20Documents/Financial%20Documents/FIN-311-FY2022BudJust-20210602.pdf,2025,3,170873390.5,155878813.49,523402942.68,15330351529402.55,3.4141613887727846e-05,presidio-trust
+1143,535,PCLOB,Privacy and Civil Liberties Oversight Board,,2025,3,9612024.8,10319533.83,18238748.59,15330351529402.55,1.189714962179396e-06,privacy-and-civil-liberties-oversight-board
+1544,290,PBRB,Public Buildings Reform Board,https://www.pbrb.gov/cj/,2025,3,1905402.76,1818761.18,11404685.71,15330351529402.55,7.439285190640674e-07,public-buildings-reform-board
+693,060,RRB,Railroad Retirement Board,https://www.rrb.gov/cj,2025,3,13073966781.12,13184772781.15,17851897284.02,15330351529402.55,0.0011644806219727774,railroad-retirement-board
+680,050,SEC,Securities and Exchange Commission,https://www.sec.gov/cj,2025,3,1812509257.09,1628484452.7,3454639079.81,15330351529402.55,0.00022534637077201015,securities-and-exchange-commission
+1067,090,SSS,Selective Service System,https://www.sss.gov/cj,2025,3,0.0,0.0,0.0,15330351529402.55,0.0,selective-service-system
+803,073,SBA,Small Business Administration,https://www.sba.gov/cj,2025,3,2744140838.93,3088720778.64,8371938825.38,15330351529402.55,0.0005461022083755354,small-business-administration
+539,028,SSA,Social Security Administration,https://www.ssa.gov/cj,2025,3,1291269945282.56,1302876603110.02,1357275110777.78,15330351529402.55,0.08853515903889227,social-security-administration
+1546,574,SCRC,Southeast Crescent Regional Commission,https://scrc.gov/Accountability/congressional-justification,2025,3,4522994.38,10556837.97,57995429.12,15330351529402.55,3.7830462666670617e-06,southeast-crescent-regional-commission
+1422,472,STB,Surface Transportation Board,https://www.stb.gov/cj,2025,3,34163140.74,29672516.85,55334673.42,15330351529402.55,3.609484969334978e-06,surface-transportation-board
+1163,514,USAGM,U.S. Agency for Global Media,,2025,3,608240593.33,557240286.49,992559368.17,15330351529402.55,6.474472332003215e-05,us-agency-for-global-media
+651,376,USICH,U.S. Interagency Council on Homelessness,https://www.usich.gov/cj,2025,3,0.0,0.0,0.0,15330351529402.55,0.0,us-interagency-council-on-homelessness
+1522,077,DFC,U.S. International Development Finance Corporation,,2025,3,1026799317.6,821784526.79,8826092221.9,15330351529402.55,0.0005757266690833649,us-international-development-finance-corporation
+1162,510,CSB,United States Chemical Safety Board,https://www.csb.gov/cj,2025,3,9983593.93,9580520.62,21658252.89,15330351529402.55,1.4127694885835444e-06,united-states-chemical-safety-board
+1169,345,CAVC,United States Court of Appeals for Veterans Claims,https://www.uscourts.cavc.gov/cj,2025,3,32822052.4,34943982.22,127068485.74,15330351529402.55,8.288687020404682e-06,united-states-court-of-appeals-for-veterans-claims
+90,1133,USTDA,United States Trade and Development Agency,https://www.ustda.gov/cj,2025,3,57534128.14,39265580.44,185316948.69,15330351529402.55,1.2088238703109642e-05,united-states-trade-and-development-agency
+1418,519,VEF,Vietnam Education Foundation,,2025,3,0.0,0.0,0.0,15330351529402.55,0.0,vietnam-education-foundation
